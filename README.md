@@ -19,11 +19,9 @@
 
 <h3 align="left">Support:</h3>
  
-<p><a href="https://www.buymeacoffee.com/emin364"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emin364" /></a></p><br><br>
-
+<p><a href="https://www.buymeacoffee.com/emin364"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="emin364" /></a></p>
 
 <a href='https://cafecito.app/emin364' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' /></a>
-
 
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emin364&show_icons=true&locale=en" alt="emin364" /></p>
