@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emin364&label=Visitas&color=0e75b6&style=flat" alt="emin364" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **TPE Final de Programación Imperativa**
+- 🔭 Actualmente estoy trabajando en **H8ers Club**
 
-- 🌱 Actualmente estoy aprendiendo **Solidity, C++ y EtherJS**
+- 🌱 Actualmente estoy aprendiendo **Solidity, C++, Java y EtherJS**
 
 - 📫 Puedes contactarme por discord: **Emi#0001**
 
