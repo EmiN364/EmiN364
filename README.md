@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emin364&label=Visitas&color=0e75b6&style=flat" alt="emin364" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **H8ers Club / Undefined**
+- 🔭 Actualmente estoy trabajando en **Zetaequis / Undefined**
 
-- 🌱 Actualmente estoy aprendiendo **Solidity, C++, Java y EtherJS**
-
-- 📫 Puedes contactarme por discord: **Emi#0001**
+- 📫 Puedes contactarme por discord: **Emi#9174**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
