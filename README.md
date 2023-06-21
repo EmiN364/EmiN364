@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Zetaequis / Undefined**
 
-- 📫 Puedes contactarme por discord: **Emi#9174**
+- 📫 Puedes contactarme por discord: **emi.02**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
