@@ -79,6 +79,9 @@
 </p>
 
 <h3 align="left">Estadísticas</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emin364&show_icons=true&locale=en" alt="emin364" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmiN364&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&show=prs_merged&show_icons=true&hide=stars,issues,contribs" alt="emin364" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emin364&" alt="emin364" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emin364&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&show=prs_merged&show_icons=true" alt="emin364" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emin364&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&show=prs_merged&show_icons=true" alt="emin364" /></p>
+
